@@ -25,3 +25,11 @@ AI/ML & DATA ANALYST ENTHUSIAST | PYTHON • SQL • POWER BI • EXCEL<br>BUILD
 [![](https://komarev.com/ghpvc/?username=Vaibhav01044&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vaibhav01044/Vaibhav01044/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+<!---LeetCode Topics End-->
