@@ -33,5 +33,6 @@ AI/ML & DATA ANALYST ENTHUSIAST | PYTHON • SQL • POWER BI • EXCEL<br>BUILD
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vaibhav01044/Vaibhav01044/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Vaibhav01044/Vaibhav01044/tree/master/0596-classes-with-at-least-5-students) |
+| [1693-daily-leads-and-partners](https://github.com/Vaibhav01044/Vaibhav01044/tree/master/1693-daily-leads-and-partners) |
 | [3570-find-books-with-no-available-copies](https://github.com/Vaibhav01044/Vaibhav01044/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
